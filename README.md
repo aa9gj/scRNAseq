@@ -9,3 +9,6 @@ Parse provides a complete pipeline that generates both input for downstream anal
 4) Seurat analysis (run_seurat.R)
 
 ## 10X 
+10X genomics also provides a complete pipeline that will generate input data for downstream analysis
+1) Create a reference file (see cellranger_mkref.slurm)
+2) 
