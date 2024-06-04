@@ -6,5 +6,6 @@ Parse provides a complete pipeline that generates both input for downstream anal
 1) Create a reference file using --mode mkref (see run_parse_mkref.slurm)
 2) Run each sublibrary separately using --mode all and automated using SLURM (see run_parse_parallel.slurm)
 3) Run all the output with --mode combine (see run_parse_combine.slurm)
+4) Seurat analysis (run_seurat.R)
 
 ## 10X 
