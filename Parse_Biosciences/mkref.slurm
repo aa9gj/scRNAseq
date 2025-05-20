@@ -1,0 +1,5 @@
+--mode mkref \
+--genome_name <NAME> \
+--fasta <REF-FASTA> \
+--genes <REF-GTF> \
+--output_dir .
