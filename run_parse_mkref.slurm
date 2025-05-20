@@ -1,5 +1,0 @@
---mode mkref \
---genome_name canfam4 \
---fasta Canis_lupus_familiaris.ROS_Cfam_1.0.dna.toplevel.fa \
---genes Canis_lupus_familiaris.ROS_Cfam_1.0.106.gtf \
---output_dir .
